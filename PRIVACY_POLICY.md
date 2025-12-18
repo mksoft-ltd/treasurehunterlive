@@ -89,7 +89,7 @@ You have the right to:
 - **Opt-Out**: Disable location services or notifications in device settings
 - **Unsubscribe**: Cancel premium subscriptions through Google Play
 
-To delete your account, contact us at [your-email@example.com]
+To delete your account, contact us at info@froggyeye.com
 
 ## Children's Privacy
 
