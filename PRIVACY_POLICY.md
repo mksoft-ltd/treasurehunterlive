@@ -139,9 +139,9 @@ Continued use after changes constitutes acceptance of the updated policy.
 
 If you have questions about this Privacy Policy or our data practices, contact us at:
 
-**Email**: [your-email@example.com]
+**Email**: info@froggyeye.com
 **Developer**: Froggy Eye
-**Address**: [Your business address]
+**Address**: Milton Keynes, UK
 
 ## Consent
 
